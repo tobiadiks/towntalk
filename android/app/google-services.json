@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "663248566993",
+    "project_id": "towntalk-5397e",
+    "storage_bucket": "towntalk-5397e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:663248566993:android:177755a3549c658fa323f0",
+        "android_client_info": {
+          "package_name": "com.towntalk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "663248566993-u3shjkc82qcp2h3jie63k1per56tbv4n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCMQsRuPJAoArBmW8ITGRgtlNJxApHBYo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "663248566993-u3shjkc82qcp2h3jie63k1per56tbv4n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
